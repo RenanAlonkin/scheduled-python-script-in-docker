@@ -1,0 +1,6 @@
+# Using the last version of docker engine
+version: '3.8'
+services:
+  cron-python-script:
+    container_name: cron-python-script 
+    build: .

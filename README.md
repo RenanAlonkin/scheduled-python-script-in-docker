@@ -1,2 +1,8 @@
 # scheduled-python-script-in-docker
-This project is going to be a test to see how to use a cron inside a docker image to run a python script
+
+## About the project
+
+This is a simple way to run cron scripts inside docker, to be more specific, this is the easiest and simpliest way I found to run my python scripts inside a docker. 
+
+### How to run
+Just hit `docker-compose up` inside the projects folder and you are good to go.
